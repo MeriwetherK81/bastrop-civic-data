@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "fiscal_year": "FY2026",
+  "label": "FY 2025–26",
+  "period_start": "2025-10-01",
+  "period_end": "2026-09-30",
+  "data_through": "2026-09-30",
+  "source_scope": "Bastrop County accounts-payable check registers",
+  "annual_net_total": 83666800.46,
+  "public_line_count": 18457,
+  "grouped_record_count": 9473,
+  "searchable_payee_count": 876,
+  "monthly_totals": [
+    {
+      "month": "2025-10",
+      "label": "October 2025",
+      "net_amount": 6411512.58,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/October2025.pdf"
+    },
+    {
+      "month": "2025-11",
+      "label": "November 2025",
+      "net_amount": 5676615.37,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/November2025.pdf"
+    },
+    {
+      "month": "2025-12",
+      "label": "December 2025",
+      "net_amount": 6673297.71,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/December2025.pdf"
+    },
+    {
+      "month": "2026-01",
+      "label": "January 2026",
+      "net_amount": 7985769.59,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/January%202026.pdf"
+    },
+    {
+      "month": "2026-02",
+      "label": "February 2026",
+      "net_amount": 5159515.89,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/February%202026.pdf"
+    },
+    {
+      "month": "2026-03",
+      "label": "March 2026",
+      "net_amount": 5011548.82,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/March%202026.pdf"
+    },
+    {
+      "month": "2026-04",
+      "label": "April 2026",
+      "net_amount": 5992621.24,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/April%202026.pdf"
+    },
+    {
+      "month": "2026-05",
+      "label": "May 2026",
+      "net_amount": 5938320.32,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/May%202026.pdf"
+    },
+    {
+      "month": "2026-06",
+      "label": "June 2026",
+      "net_amount": 6121631.71,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/June%202026.pdf"
+    },
+    {
+      "month": "2026-07",
+      "label": "July 2026",
+      "net_amount": 13674449.68,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/July%202026.pdf"
+    },
+    {
+      "month": "2026-08",
+      "label": "August 2026",
+      "net_amount": 6254417.46,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/August%202026.pdf"
+    },
+    {
+      "month": "2026-09",
+      "label": "September 2026",
+      "net_amount": 8767100.09,
+      "source_url": "https://www.bastropcounty.gov/page/open/4488/0/September%202026.pdf"
+    }
+  ],
+  "top_outside_payees": [
+    {
+      "name": "THE NITSCHE GROUP",
+      "net_amount": 1907897.74
+    },
+    {
+      "name": "MOTOROLA SOLUTIONS, INC",
+      "net_amount": 1790716.07
+    },
+    {
+      "name": "BRAUNTEX MATERIALS INC",
+      "net_amount": 1747581.38
+    },
+    {
+      "name": "ERGON ASPHALT & EMULSIONS INC",
+      "net_amount": 1714722.64
+    },
+    {
+      "name": "BASTROP CENTRAL APPRAISAL DIST.",
+      "net_amount": 1052365.52
+    },
+    {
+      "name": "HARHUN ENTERPRISES LLC",
+      "net_amount": 1028678.21
+    },
+    {
+      "name": "CITY OF BASTROP",
+      "net_amount": 911536.09
+    },
+    {
+      "name": "SMITHVILLE WORKFORCE TRAINING CENTER",
+      "net_amount": 896831.09
+    },
+    {
+      "name": "DRG ARCHITECTS LLC",
+      "net_amount": 893560.0
+    },
+    {
+      "name": "SHI GOVERNMENT SOLUTIONS,INC.",
+      "net_amount": 774756.88
+    }
+  ],
+  "top_outside_payees_note": "Discovery list only; excludes payroll taxes, employee benefits, debt-service entries and card-payment intermediaries. Those records remain searchable."
+}

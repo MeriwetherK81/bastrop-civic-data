@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "dataset": "Bastrop County Checkbook",
+  "publisher": "Smithville Texas News",
+  "latest_fiscal_year": "FY2026",
+  "fiscal_years": [
+    {
+      "id": "FY2026",
+      "label": "FY 2025–26",
+      "period_start": "2025-10-01",
+      "period_end": "2026-09-30",
+      "data_through": "2026-09-30",
+      "status": "published",
+      "path": "FY2026/"
+    }
+  ]
+}

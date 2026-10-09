@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "dataset": "Bastrop County Checkbook",
+  "files": {
+    "index.json": "available fiscal years",
+    "FY2026/summary.json": "year totals/metadata",
+    "FY2026/records.json": "grouped public interface records",
+    "FY2026/payees.json": "all public payees",
+    "FY2026/months/YYYY-MM.json": "public line-level derivative by month"
+  },
+  "future_year_rule": "Normalize each source year into the common public fields. Leave unavailable fields blank; do not invent values."
+}
